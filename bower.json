@@ -1,0 +1,28 @@
+{
+  "name": "koco-signal-emitter",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cbcrc/koco-signal-emitter",
+  "authors": [
+    "David D'Amico <david.damico@cbc.ca>"
+  ],
+  "description": "Wrapper for Miller Medeiros's Signal Emitter js-signals wrapper.",
+  "main": "src/signal-emitter.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "koco",
+    "reactive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-signals": "^1.0.0"
+  }
+}
