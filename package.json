@@ -16,8 +16,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "js-signals": "^1.0.0",
-    "koco": "^1.0.0"
+    "js-signals": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
